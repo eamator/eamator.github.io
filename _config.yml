@@ -45,5 +45,4 @@ plugins:
 
 disqus:
   shortname: eamator
-site: 
-  google_analytics: G-JXFNHY245S
+google_analytics: G-JXFNHY245S
